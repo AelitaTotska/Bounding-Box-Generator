@@ -1,0 +1,11 @@
+# Core dependencies
+pandas==2.2.2
+geopandas==1.0.1
+shapely==2.0.4  # Required by newer versions of geopandas
+
+# Plotting and mapping
+matplotlib==3.8.4
+cartopy==0.22.0
+
+# System utilities
+pathlib
